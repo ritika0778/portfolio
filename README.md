@@ -17,7 +17,7 @@ A personal portfolio website built with pure **HTML5, CSS3, and JavaScript** - d
 - 🧩 **LeetCode Section** - showcasing DSA journey with live stats card
 - 🌍 **Volunteering** - GSSoC, SSoC & GDG Kanpur contributions
 - 📬 **Contact Form** - with animated send feedback
-- ⚡ **No frameworks** — zero dependencies, pure vanilla code
+- ⚡ **No frameworks** - zero dependencies, pure vanilla code
 
 ---
 
