@@ -2,7 +2,7 @@
 
 > *"Building useful things, learning something new every day."*
 
-A personal portfolio website built with pure **HTML5, CSS3, and JavaScript** — designed with a warm beige & brown aesthetic to stand out from the typical dark/neon developer portfolios.
+A personal portfolio website built with pure **HTML5, CSS3, and JavaScript** - designed with a warm beige & brown aesthetic to stand out from the typical dark/neon developer portfolios.
 
 🔗 **Live Site:**(https://portfolio-puce-mu-69zeznwnv0.vercel.app)
 
@@ -10,13 +10,13 @@ A personal portfolio website built with pure **HTML5, CSS3, and JavaScript** —
 
 ## ✨ Features
 
-- 🎨 **Custom Design** — warm cream, beige & espresso brown color palette
-- 📱 **Fully Responsive** — looks great on mobile, tablet, and desktop
-- 🌀 **Smooth Animations** — scroll reveal, hero underline draw, hover effects
-- 📊 **Live GitHub Stats** — real-time stats and streak pulled from GitHub
-- 🧩 **LeetCode Section** — showcasing DSA journey with live stats card
-- 🌍 **Volunteering** — GSSoC, SSoC & GDG Kanpur contributions
-- 📬 **Contact Form** — with animated send feedback
+- 🎨 **Custom Design** - warm cream, beige & espresso brown color palette
+- 📱 **Fully Responsive** - looks great on mobile, tablet, and desktop
+- 🌀 **Smooth Animations** - scroll reveal, hero underline draw, hover effects
+- 📊 **Live GitHub Stats** - real-time stats and streak pulled from GitHub
+- 🧩 **LeetCode Section** - showcasing DSA journey with live stats card
+- 🌍 **Volunteering** - GSSoC, SSoC & GDG Kanpur contributions
+- 📬 **Contact Form** - with animated send feedback
 - ⚡ **No frameworks** — zero dependencies, pure vanilla code
 
 ---
@@ -51,13 +51,13 @@ ritika-portfolio/
 
 ## 🚀 Sections
 
-- **Hero** — Name, role & call-to-action buttons
-- **About** — Bio, tags, and fun stats
-- **Skills** — Languages, web dev, tools & currently learning
-- **Volunteering** — GSSoC 2026, SSoC 2026, GDG Kanpur
-- **GitHub** — Live stats and streak
-- **LeetCode** — DSA journey and live profile stats
-- **Contact** — Email form + all social links
+- **Hero** - Name, role & call-to-action buttons
+- **About** - Bio, tags, and fun stats
+- **Skills** - Languages, web dev, tools & currently learning
+- **Volunteering** - GSSoC 2026, SSoC 2026, GDG Kanpur
+- **GitHub** - Live stats and streak
+- **LeetCode** - DSA journey and live profile stats
+- **Contact** - Email form + all social links
 
 ---
 
